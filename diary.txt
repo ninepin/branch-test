@@ -1,2 +1,3 @@
+new line
 this is my diary
-this is the second line
+this is the third line
